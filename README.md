@@ -17,7 +17,7 @@ Constructing the data: The data construction step involves creating and adding n
 
 - Integrating the data: The data integration step involves combining and merging the data from different sources and formats into a single and consistent data set, such as the relational databases, the flat files, the web pages, the text documents, the images, the videos, etc. The data integration step also involves defining the criteria and methods for integrating the data, such as the rules and techniques for identifying and resolving the conflicts and redundancies in the data, the methods and tools for integrating the data, the verification and validation of the integration results, etc. In this case, the data integration step involves integrating the cost of living 2022 dataset with the other datasets that contain the new attributes, such as the world development indicators dataset, the world happiness report dataset, and the cost of living dataset from Numbeo. The data integration step also involves using a left join operation to merge the datasets based on the common key, which is the city name. The data integration step also involves using pandas and RapidMiner to perform the data integration process.
 - Formatting the data: The data formatting step involves transforming and converting the data into a standard and uniform format that is suitable and ready for the data mining project, such as the data type, the data structure, the data format, the data encoding, the data scale, the data unit, etc. The data formatting step also involves defining the criteria and methods for formatting the data, such as the rules and techniques for transforming and converting the data, the methods and tools for formatting the data, the verification and validation of the formatting results, etc. In this case, the data formatting step involves formatting the cost of living 2022 dataset into a standard and uniform format that is suitable and ready for the data mining project, such as the numeric data type, the tabular data structure, the csv data format, the utf-8 data encoding, the ratio data scale, the US dollar data unit, etc. The data formatting step also involves using pandas and RapidMiner to perform the data formatting process.
-  ![](Aspose.Words.aacf8ed5-b6c0-45c6-96ef-b1789c81a9d3.001.png)
+  ![](images/Aspose.Words.aacf8ed5-b6c0-45c6-96ef-b1789c81a9d3.001.png)
 
 
 
@@ -34,59 +34,59 @@ These models are used:
 
 3. Descriptive analytics
 
-Descriptive analytics is the process of summarizing and visualizing the data to describe and understand the characteristics and patterns of the data, such as the distribution, the frequency, the mean, the median, the mode, the standard deviation, the correlation, the outliers, etc. Descriptive analytics can help to explore and analyze the data, and to communicate and present the findings and insights from the data. 
+Descriptive analytics is the process of summarizing and visualizing the data to describe and understand the characteristics and patterns of the data, such as the distribution, the frequency, the mean, the median, the mode, the standard deviation, the correlation, the outliers, etc. Descriptive analytics can help to explore and analyze the data, and to communicate and present the findings and insights from the data. 
 
-![](Aspose.Words.aacf8ed5-b6c0-45c6-96ef-b1789c81a9d3.002.png)
+![](images/Aspose.Words.aacf8ed5-b6c0-45c6-96ef-b1789c81a9d3.002.png)
 
 3.1 Correlation
 
 Correlation is a statistical measure that indicates the strength and direction of the linear relationship between two variables, such as the cost of living index and the HDI. Correlation can help to identify and analyze the associations and dependencies between the variables, and to infer and predict the values of one variable based on the values of another variable. Correlation can range from -1 to 1, where -1 means a perfect negative correlation, 0 means no correlation, and 1 means a perfect positive correlation. Correlation can be calculated using various methods, such as the Pearson correlation coefficient, the Spearman rank correlation coefficient, the Kendall rank correlation coefficient, etc. Correlation can be visualized using various plots, such as the scatter plot, the line plot, the heat map, etc.
 
-![](Aspose.Words.aacf8ed5-b6c0-45c6-96ef-b1789c81a9d3.003.png)
+![](images/Aspose.Words.aacf8ed5-b6c0-45c6-96ef-b1789c81a9d3.003.png)
 
-![](Aspose.Words.aacf8ed5-b6c0-45c6-96ef-b1789c81a9d3.004.png)
+![](images/Aspose.Words.aacf8ed5-b6c0-45c6-96ef-b1789c81a9d3.004.png)
 
-![](Aspose.Words.aacf8ed5-b6c0-45c6-96ef-b1789c81a9d3.005.png)
+![](images/Aspose.Words.aacf8ed5-b6c0-45c6-96ef-b1789c81a9d3.005.png)
 
-![](Aspose.Words.aacf8ed5-b6c0-45c6-96ef-b1789c81a9d3.006.png)
+![](images/Aspose.Words.aacf8ed5-b6c0-45c6-96ef-b1789c81a9d3.006.png)
 
 3.2 Exploration by continents
 
-![](Aspose.Words.aacf8ed5-b6c0-45c6-96ef-b1789c81a9d3.007.png)
+![](images/Aspose.Words.aacf8ed5-b6c0-45c6-96ef-b1789c81a9d3.007.png)
 
-![](Aspose.Words.aacf8ed5-b6c0-45c6-96ef-b1789c81a9d3.008.png)
+![](images/Aspose.Words.aacf8ed5-b6c0-45c6-96ef-b1789c81a9d3.008.png)
 
 
 3.2.1 Africa
 
-![](Aspose.Words.aacf8ed5-b6c0-45c6-96ef-b1789c81a9d3.009.png)
+![](images/Aspose.Words.aacf8ed5-b6c0-45c6-96ef-b1789c81a9d3.009.png)
 
-Niger is a landlocked country in West Africa that is one of the poorest and least developed countries in the world. The cost of living in Niger is relatively high compared to its low income and human development index. According to Numbeo (2023), the average monthly net salary in Niger is **$146**, while the average monthly rent for a one-bedroom apartment in the city centre is **$200**. The prices of food, transportation, utilities and other goods and services are also high due to inflation, import dependence, corruption and insecurity. The cost of living in Niger is a major challenge for its population of over 24 million people, most of whom live in rural areas and depend on subsistence farming and livestock rearing.
+Niger is a landlocked country in West Africa that is one of the poorest and least developed countries in the world. The cost of living in Niger is relatively high compared to its low income and human development index. According to Numbeo (2023), the average monthly net salary in Niger is **$146**, while the average monthly rent for a one-bedroom apartment in the city centre is **$200**. The prices of food, transportation, utilities and other goods and services are also high due to inflation, import dependence, corruption and insecurity. The cost of living in Niger is a major challenge for its population of over 24 million people, most of whom live in rural areas and depend on subsistence farming and livestock rearing.
 
 3.2.2 America
 
-![](Aspose.Words.aacf8ed5-b6c0-45c6-96ef-b1789c81a9d3.010.png)
+![](images/Aspose.Words.aacf8ed5-b6c0-45c6-96ef-b1789c81a9d3.010.png)
 
-In the above graph, it is clear that in the North American continent, the cost of essentials, average salary, and the HDI index have the highest peak in the United States of America. It indicates that the higher the HDI index, the higher the average salary in an area. 
+In the above graph, it is clear that in the North American continent, the cost of essentials, average salary, and the HDI index have the highest peak in the United States of America. It indicates that the higher the HDI index, the higher the average salary in an area. 
 
 3.2.3 Europe
 
-![](Aspose.Words.aacf8ed5-b6c0-45c6-96ef-b1789c81a9d3.011.png)
+![](images/Aspose.Words.aacf8ed5-b6c0-45c6-96ef-b1789c81a9d3.011.png)
 
 The graph above suggests that in the European continent, the cost of essentials and the average monthly salary is the highest in Switzerland. This correlates with the other research and data that suggests that Switzerland is the most expensive country to live in in the EU region.
 
 3.2.4 Asia
-![](Aspose.Words.aacf8ed5-b6c0-45c6-96ef-b1789c81a9d3.012.png)
+![](images/Aspose.Words.aacf8ed5-b6c0-45c6-96ef-b1789c81a9d3.012.png)
 
-The graph above reflects that in the Asian continent, the cost of essentials is the highest in Singapore, more than the average monthly salary. In Hong Kong, the cost of essentials is also considerably higher than the average monthly salary. Interesting to note here that the average monthly salary is the highest in the Qatar region. 
+The graph above reflects that in the Asian continent, the cost of essentials is the highest in Singapore, more than the average monthly salary. In Hong Kong, the cost of essentials is also considerably higher than the average monthly salary. Interesting to note here that the average monthly salary is the highest in the Qatar region. 
 
 3.2.5 Oceania
 
-![](Aspose.Words.aacf8ed5-b6c0-45c6-96ef-b1789c81a9d3.013.png)
+![](images/Aspose.Words.aacf8ed5-b6c0-45c6-96ef-b1789c81a9d3.013.png)
 
-In the Oceanic continent, the cost of essentials is the highest in Papua New Guinea, with Australia and New Zealand, showing high peaks in average monthly salary and high HDI index. 
+In the Oceanic continent, the cost of essentials is the highest in Papua New Guinea, with Australia and New Zealand, showing high peaks in average monthly salary and high HDI index. 
 
-The cost of essentials in Papua New Guinea is high because the cost of living in Papua New Guinea is high. According to Expatistan (2023), Papua New Guinea has a **Cost of Living Index** of **134**, which means that living there is **34% more expensive** than living in Prague, the central reference city. Some of the factors that contribute to the high cost of living in Papua New Guinea are:
+The cost of essentials in Papua New Guinea is high because the cost of living in Papua New Guinea is high. According to Expatistan (2023), Papua New Guinea has a **Cost of Living Index** of **134**, which means that living there is **34% more expensive** than living in Prague, the central reference city. Some of the factors that contribute to the high cost of living in Papua New Guinea are:
 
 - The complicated customary land title system, which means the price of land is high.
 - The high import costs and taxes, which increase the prices of goods and services.
@@ -96,15 +96,15 @@ The cost of essentials in Papua New Guinea is high because the cost of living in
 
 3.3 Exploration by subregions
 
-Then, to comparison across sub-regions. 
+Then, to comparison across sub-regions. 
 
-![](Aspose.Words.aacf8ed5-b6c0-45c6-96ef-b1789c81a9d3.014.png)
+![](images/Aspose.Words.aacf8ed5-b6c0-45c6-96ef-b1789c81a9d3.014.png)
 
 The image shows the sub-regional comparison process in Rapid Miner
 
-![](Aspose.Words.aacf8ed5-b6c0-45c6-96ef-b1789c81a9d3.015.png)
+![](images/Aspose.Words.aacf8ed5-b6c0-45c6-96ef-b1789c81a9d3.015.png)
 
-From the above graph, we can conclude that In Northern America, Australia, and New Zealand, the average monthly salary is the highest with high peaks of the HDI index- this finding is consistent with the fact that the higher the HDI index in a region, that is, high skilled labor force earns higher composition. Interesting to note here that the Melanesia region reflects a high cost of essentials, higher than any subregion. 
+From the above graph, we can conclude that In Northern America, Australia, and New Zealand, the average monthly salary is the highest with high peaks of the HDI index- this finding is consistent with the fact that the higher the HDI index in a region, that is, high skilled labor force earns higher composition. Interesting to note here that the Melanesia region reflects a high cost of essentials, higher than any subregion. 
 
 The cost of essentials in Melanesia is high because the cost of living in Melanesia is high. Melanesia is a region in the South Pacific that includes the countries of Papua New Guinea, Fiji, Solomon Islands, Vanuatu and New Caledonia. The cost of living in Melanesia varies depending on the country, but some of the factors that contribute to the high cost of living in Melanesia are:
 
@@ -117,61 +117,61 @@ The cost of essentials in Melanesia is high because the cost of living in Melane
 
 3.4 Least and most expensive cities
 
-![](Aspose.Words.aacf8ed5-b6c0-45c6-96ef-b1789c81a9d3.016.png)
+![](images/Aspose.Words.aacf8ed5-b6c0-45c6-96ef-b1789c81a9d3.016.png)
 
 
-![](Aspose.Words.aacf8ed5-b6c0-45c6-96ef-b1789c81a9d3.017.png)
+![](images/Aspose.Words.aacf8ed5-b6c0-45c6-96ef-b1789c81a9d3.017.png)
 
 Kermanshah is showing highest cost of living due to abnormal apartment rent cost in the dataset. The apartment rent cost in Kermanshah is based on the location, size, quality and amenities of the apartment. The average monthly rent for an 800 sq. ft. apartment in Kermanshah is between $152 and $248, depending on the location. The apartment rent cost for an 800 sq. ft. apartment in Kermanshah would not be $12,000, unless the apartment is very special or the landlord is very greedy.
 
-![](Aspose.Words.aacf8ed5-b6c0-45c6-96ef-b1789c81a9d3.018.png)
+![](images/Aspose.Words.aacf8ed5-b6c0-45c6-96ef-b1789c81a9d3.018.png)
 
  
 3.5 Time required to buy car or apartment
 
 Finally, we ran a prediction to determine the required time to be able to purchase an 85sq meter apartment or a Volkswagen car.
 
-![](Aspose.Words.aacf8ed5-b6c0-45c6-96ef-b1789c81a9d3.019.png)
+![](images/Aspose.Words.aacf8ed5-b6c0-45c6-96ef-b1789c81a9d3.019.png)
 
-![](Aspose.Words.aacf8ed5-b6c0-45c6-96ef-b1789c81a9d3.020.png)
-
-
-
-![](Aspose.Words.aacf8ed5-b6c0-45c6-96ef-b1789c81a9d3.021.png)
-
-
-![](Aspose.Words.aacf8ed5-b6c0-45c6-96ef-b1789c81a9d3.022.png)
+![](images/Aspose.Words.aacf8ed5-b6c0-45c6-96ef-b1789c81a9d3.020.png)
 
 
 
-![](Aspose.Words.aacf8ed5-b6c0-45c6-96ef-b1789c81a9d3.023.png)
+![](images/Aspose.Words.aacf8ed5-b6c0-45c6-96ef-b1789c81a9d3.021.png)
+
+
+![](images/Aspose.Words.aacf8ed5-b6c0-45c6-96ef-b1789c81a9d3.022.png)
+
+
+
+![](images/Aspose.Words.aacf8ed5-b6c0-45c6-96ef-b1789c81a9d3.023.png)
 
 
 
 
 4. Predictive analytics
 
-![](Aspose.Words.aacf8ed5-b6c0-45c6-96ef-b1789c81a9d3.024.png)
+![](images/Aspose.Words.aacf8ed5-b6c0-45c6-96ef-b1789c81a9d3.024.png)
 
 4.1 Decision tree
 
-![](Aspose.Words.aacf8ed5-b6c0-45c6-96ef-b1789c81a9d3.025.png)
+![](images/Aspose.Words.aacf8ed5-b6c0-45c6-96ef-b1789c81a9d3.025.png)
 
 Average monthly salary was selected as label. Maximum depth was set to 5
 
-![](Aspose.Words.aacf8ed5-b6c0-45c6-96ef-b1789c81a9d3.026.png)
+![](images/Aspose.Words.aacf8ed5-b6c0-45c6-96ef-b1789c81a9d3.026.png)
 
 Tree indicates that apartment rent cost and preschool cost are the most important after HDI.
 
 4.2 Naive bayes
 
-![](Aspose.Words.aacf8ed5-b6c0-45c6-96ef-b1789c81a9d3.027.png)
+![](images/Aspose.Words.aacf8ed5-b6c0-45c6-96ef-b1789c81a9d3.027.png)
 
-![](Aspose.Words.aacf8ed5-b6c0-45c6-96ef-b1789c81a9d3.028.png)
+![](images/Aspose.Words.aacf8ed5-b6c0-45c6-96ef-b1789c81a9d3.028.png)
 
-![](Aspose.Words.aacf8ed5-b6c0-45c6-96ef-b1789c81a9d3.029.png)
+![](images/Aspose.Words.aacf8ed5-b6c0-45c6-96ef-b1789c81a9d3.029.png)
 
-![](Aspose.Words.aacf8ed5-b6c0-45c6-96ef-b1789c81a9d3.030.png)
+![](images/Aspose.Words.aacf8ed5-b6c0-45c6-96ef-b1789c81a9d3.030.png)
 
 **Performance Vector**
 
@@ -214,13 +214,13 @@ AUC (pessimistic): 0.990 +/- 0.005 (micro average: 0.990) (positive class: Not D
 
 4.3 Random Forest
 
-![](Aspose.Words.aacf8ed5-b6c0-45c6-96ef-b1789c81a9d3.031.png)
+![](images/Aspose.Words.aacf8ed5-b6c0-45c6-96ef-b1789c81a9d3.031.png)
 
-![](Aspose.Words.aacf8ed5-b6c0-45c6-96ef-b1789c81a9d3.032.png)
+![](images/Aspose.Words.aacf8ed5-b6c0-45c6-96ef-b1789c81a9d3.032.png)
 
-![](Aspose.Words.aacf8ed5-b6c0-45c6-96ef-b1789c81a9d3.033.png)
+![](images/Aspose.Words.aacf8ed5-b6c0-45c6-96ef-b1789c81a9d3.033.png)
 
-![](Aspose.Words.aacf8ed5-b6c0-45c6-96ef-b1789c81a9d3.034.png)
+![](images/Aspose.Words.aacf8ed5-b6c0-45c6-96ef-b1789c81a9d3.034.png)
 
 PerformanceVector:
 
@@ -262,13 +262,13 @@ AUC (pessimistic): 1.000 +/- 0.000 (micro average: 1.000) (positive class: Not D
 
 4.4 K-NN
 
-![](Aspose.Words.aacf8ed5-b6c0-45c6-96ef-b1789c81a9d3.035.png)
+![](images/Aspose.Words.aacf8ed5-b6c0-45c6-96ef-b1789c81a9d3.035.png)
 
-![](Aspose.Words.aacf8ed5-b6c0-45c6-96ef-b1789c81a9d3.036.png)
+![](images/Aspose.Words.aacf8ed5-b6c0-45c6-96ef-b1789c81a9d3.036.png)
 
-![](Aspose.Words.aacf8ed5-b6c0-45c6-96ef-b1789c81a9d3.037.png)
+![](images/Aspose.Words.aacf8ed5-b6c0-45c6-96ef-b1789c81a9d3.037.png)
 
-![](Aspose.Words.aacf8ed5-b6c0-45c6-96ef-b1789c81a9d3.038.png)
+![](images/Aspose.Words.aacf8ed5-b6c0-45c6-96ef-b1789c81a9d3.038.png)
 
 PerformanceVector:
 
@@ -310,8 +310,8 @@ AUC (pessimistic): 0.904 +/- 0.025 (micro average: 0.904) (positive class: Not D
 
 4.5 Compare ROCs
 
-![](Aspose.Words.aacf8ed5-b6c0-45c6-96ef-b1789c81a9d3.039.png)
+![](images/Aspose.Words.aacf8ed5-b6c0-45c6-96ef-b1789c81a9d3.039.png)
 
-![](Aspose.Words.aacf8ed5-b6c0-45c6-96ef-b1789c81a9d3.040.png)
+![](images/Aspose.Words.aacf8ed5-b6c0-45c6-96ef-b1789c81a9d3.040.png)
 
 From this graph, K-NN has the worst prediction accuracy out of 3 models. Random forest is the most accurate followed by the naive Bayes model. Although for a small range, Naive Bayes is the most accurate among the three.
